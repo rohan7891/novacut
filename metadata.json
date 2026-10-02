@@ -1,0 +1,6 @@
+{
+  "name": "NovaCut — AI Video Studio",
+  "description": "Create Beyond Limits. Professional browser-based video editing platform with multi-track timeline, AI captions, templates, and real video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

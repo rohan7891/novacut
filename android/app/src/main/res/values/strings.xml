@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NovaCut</string>
+    <string name="title_activity_main">NovaCut</string>
+    <string name="package_name">com.novacut.app</string>
+    <string name="custom_url_scheme">com.novacut.app</string>
+</resources>
